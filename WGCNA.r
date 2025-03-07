@@ -1,4 +1,4 @@
-##### WGCNA practice  #####
+##### WGCNA  #####
 # By Helia Ghazinejad 
 
 library(WGCNA)
